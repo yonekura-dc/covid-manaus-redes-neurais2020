@@ -5,7 +5,7 @@
 Pode instalar o anaconda ou miniconda.
 
 ### Importe o ambiente padrão
-Basta executar o seguinte comando no dir base do repositório.
+Basta executar o seguinte comando no dir src do repositório.
 
     conda env create -f environment.yml
 
